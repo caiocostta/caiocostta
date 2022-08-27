@@ -1,7 +1,4 @@
 ## Olá, eu sou o Caio dos Santos Costa! 👋
-<br/>
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-dos-santos-costa-800141195/)
 
 ### Sobre mim
 
@@ -11,6 +8,8 @@
         Comecei na área de desenvolvimento tem cerca de um ano, até o momento me especializei mais no Front-end, porém pretendo ser Full-Stack, tenho alguns projetos feitos e atualmente comecei a me desenvolver melhor no back-end para conseguir finalmente a minha tão esperada vaga de desenvolvedor 😄
     </p>
 </div>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-dos-santos-costa-800141195/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiocostta&show_icons=true&theme=highcontrast)
 
