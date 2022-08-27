@@ -1,14 +1,5 @@
 ## Olá, eu sou o Caio dos Santos Costa! 👋
 
-### Contatos
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-dos-santos-costa-800141195/)
-
-<div style="display: flex; align-items: center;">
-    <img alt="HTML5" style="height: 30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    <p style="margin: auto; margin-left: 5px;">caio.08costa@gmail.com</p>
-</div>
-
 ### Sobre mim
 
 <div>
@@ -33,4 +24,13 @@
     <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img alt="Dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 </div>
+
+### Contatos
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-dos-santos-costa-800141195/)
+
+<div style="display: flex;">
+    <img alt="HTML5" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <p style="margin: auto; margin-left: 5px;">caio.08costa@gmail.com</p>
+</div><br/>
 
