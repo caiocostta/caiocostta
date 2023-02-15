@@ -13,7 +13,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiocostta&show_icons=true&theme=highcontrast)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiocostta&exclude_repo=Portal-Noticias,Formulario,Site-Flex-Box,Landing-Page,ProEventos&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiocostta&exclude_repo=Portal-Noticias,Formulario,Site-Flex-Box,Landing-Page,ProEventos, Projeto-Operadora-New&theme=highcontrast)
 
 ### Tecnologias utilizadas
 
